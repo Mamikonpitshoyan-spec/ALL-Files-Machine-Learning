@@ -1,0 +1,17 @@
+*
+!*/
+!*.ipynb
+!*.py
+!*.csv
+!.gitignore
+
+# Exclude notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude oversized CSV files (>100MB) blocked by GitHub
+DeepLearning/Neuron Network/das3(t)/training_extra.csv
+DeepLearning/Taratesaki chanachum/new_test/new_test.csv
+DeepLearning/Taratesaki chanachum/new_test/.ipynb_checkpoints/new_test-checkpoint.csv
+kaggle_1(dasaranum)/kaggle_d(polin_bazm2 Grid search & Pipline)/test.csv
+kaggle_1(dasaranum)/kaggle_d(polin_bazm2 Grid search & Pipline)/train.csv
+kaggle_1(dasaranum)/kaggle_das3_4databasayov/training_extra.csv
